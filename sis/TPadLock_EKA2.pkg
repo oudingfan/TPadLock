@@ -1,0 +1,17 @@
+
+&ZH
+
+#{"TPadLock"},(0xE8B4FD26),1,0,0
+
+[0x101F7961], 0, 0, 0, {"Series60ProductID"}
+
+;Localised Vendor name
+%{"…–±¶¡¡"}
+
+;Unique Vendor name
+:"shangbl@gmail.com"
+
+"C:\Symbian\9.1\S60_3rd_MR_2\Epoc32\release\armv5\urel\TPadLock.exe"-"!:\sys\bin\TPadLock.exe",FR
+;"C:\Symbian\9.1\S60_3rd_MR_2\Epoc32\data\z\private\10003a3f\apps\TPadLock_reg.rsc"-"!:\private\10003a3f\import\apps\TPadLock_reg.rsc"
+"C:\Symbian\9.1\S60_3rd_MR_2\Epoc32\Data\E8B4FD26.RSC"-"c:\private\101f875a\import\[E8B4FD26].rsc"
+"C:\SymbianWork\TPadLock\data\install.txt"-"",FT
